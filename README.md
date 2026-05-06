@@ -18,3 +18,10 @@ Arrange the components and usd the route signals to connect them
 Using the view icon in the top left icon on the menu bar,check the 3D layout.
 
 
+
+
+
+
+
+
+<img width="733" height="644" alt="Screenshot 2026-05-05 154541" src="https://github.com/user-attachments/assets/3c4501cd-a37a-4ae4-8145-7fa000b67913" />
