@@ -1,3 +1,4 @@
+<img width="733" height="644" alt="Screenshot 2026-05-05 154541" src="https://github.com/user-attachments/assets/3c4501cd-a37a-4ae4-8145-7fa000b67913" />
 # Basic-electronics
 Projects covering introduction to electronic components and systems
 # Touch Enabled Circuit Design
